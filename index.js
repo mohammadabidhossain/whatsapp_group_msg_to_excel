@@ -1,3 +1,5 @@
+#abid's personal code. 
+
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const csv = require('csv-writer').createObjectCsvWriter;
